@@ -56,3 +56,8 @@ input:focus {
 .flip-image {
   color: #2d72fc;
 }
+
+.hidden{
+  visibility: hidden;
+  display: none;
+}
